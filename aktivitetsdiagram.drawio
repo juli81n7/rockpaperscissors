@@ -1,6 +1,6 @@
 <mxfile host="65bd71144e">
     <diagram id="Dg8GpUcp4DDWIzNUwGdL" name="Page-1">
-        <mxGraphModel dx="2980" dy="1783" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
+        <mxGraphModel dx="2649" dy="1584" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
@@ -158,7 +158,7 @@
                         </Array>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="39" value="Player 1&lt;br&gt;får class papir" style="html=1;align=center;verticalAlign=top;rounded=1;absoluteArcSize=1;arcSize=10;dashed=0;" vertex="1" parent="1">
+                <mxCell id="39" value="Player 1&lt;br&gt;får class sten" style="html=1;align=center;verticalAlign=top;rounded=1;absoluteArcSize=1;arcSize=10;dashed=0;" vertex="1" parent="1">
                     <mxGeometry x="260" y="495" width="190" height="40" as="geometry"/>
                 </mxCell>
                 <mxCell id="40" style="edgeStyle=none;rounded=0;html=1;entryX=0.694;entryY=-0.029;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="41" target="47">
@@ -243,7 +243,7 @@
                         </Array>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="53" value="Player 1&lt;br&gt;får class papir" style="html=1;align=center;verticalAlign=top;rounded=1;absoluteArcSize=1;arcSize=10;dashed=0;" vertex="1" parent="1">
+                <mxCell id="53" value="Player 1&lt;br&gt;får class saks" style="html=1;align=center;verticalAlign=top;rounded=1;absoluteArcSize=1;arcSize=10;dashed=0;" vertex="1" parent="1">
                     <mxGeometry x="781" y="684" width="190" height="40" as="geometry"/>
                 </mxCell>
                 <mxCell id="54" style="edgeStyle=none;rounded=0;html=1;entryX=0.694;entryY=-0.029;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="55" target="61">
